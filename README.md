@@ -1,1 +1,1 @@
-# Personal-Expense-Tracker
+A simple and user-friendly web application that helps users manage and track their daily expenses. This project is ideal for individuals who want to monitor their spending habits and maintain a monthly budget efficiently.
