@@ -49,7 +49,7 @@ The Expense Tracking Database Management System `DBMS` project is a user-friendl
 2. **Default Login Credentials**
 
    - Upon accessing the web application for the first time, use the following default login credentials:
-     - **Email** : anjalita@sjec.in
+     - **Email** : sagar@32.in
      - **Password** : asdf1973
 
 3. **Work on the Project:**
